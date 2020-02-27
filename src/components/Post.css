@@ -1,0 +1,27 @@
+div.post {
+  background-color: #fff;
+  padding: 15px;
+  margin-top: 20px;
+  border-radius: 5px;
+}
+
+div.post .post-header {
+  display: flex;
+  align-items: center;
+  height: 60px;
+  margin-bottom: 10px;
+}
+
+div.post .post-header img {
+  height: 60%;
+  margin-right: 10px;
+}
+
+div.post div.user-post {
+  margin-bottom: 30px;
+  line-height: 1.4;
+}
+
+hr {
+  border-top: #EEEEEE;
+}
